@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/aws-waf-bot-control-api-protection-with-captcha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bot-control" vcs="Git" />
   </component>
 </project>

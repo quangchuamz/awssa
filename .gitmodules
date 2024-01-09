@@ -1,3 +1,6 @@
 [submodule "aws-waf-bot-control-api-protection-with-captcha"]
 	path = aws-waf-bot-control-api-protection-with-captcha
 	url = https://github.com/quangchuamz/aws-waf-bot-control-api-protection-with-captcha.git
+[submodule "botcontrol"]
+	path = botcontrol
+	url = https://github.com/quangchuamz/botcontrol.git
